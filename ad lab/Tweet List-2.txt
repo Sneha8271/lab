@@ -1,0 +1,82 @@
+[
+  {
+    "text": "Counting down the days for the Gaganyaan G1 launch! 🚀 sending Vyommitra up there is going to be such a historic moment. The humanoid robot looks so cool! 🤖🇮🇳 #ISRO #Gaganyaan",
+    "author": "@AstroGeekInd"
+  },
+  {
+    "text": "Remember the SpaDeX docking last year? That was just the warm-up. Now we are talking about building our own Space Station (BAS) by 2035. ISRO is moving at warp speed! 🌌✨",
+    "author": "@SpaceExplorer99"
+  },
+  {
+    "text": "LVM3 is officially the reliable workhorse of India. another commercial launch nailed this week. We are competing with SpaceX on cost and reliability. Proud! 🇮🇳💰",
+    "author": "@TechIndiaNews"
+  },
+  {
+    "text": "Just read that the crew module recovery tests are done. Our Navy is ready to pick up the capsule. It’s actually happening, guys. Humans in space by late 2026? 🤞🌊",
+    "author": "@DefenceUpdateIN"
+  },
+  {
+    "text": "Vyommitra > C-3PO. Don't @ me. She’s going to test all the life support systems before we risk our astronauts. Science is amazing. 👩‍🚀🤖",
+    "author": "@SciFiNerd_Desi"
+  },
+  {
+    "text": "The way ISRO bounced back after the Chandrayaan-2 heartbreak years ago to now landing on the south pole AND docking satellites in orbit is the best redemption arc ever. 📈🌕",
+    "author": "@HistoryOfSpace"
+  },
+  {
+    "text": "Aditya L1 still chilling at Lagrange Point 1 sending us solar selfies. ☀️😎 The data from that mission is rewriting what we know about solar flares. underrated mission!",
+    "author": "@SolarWatchIndia"
+  },
+  {
+    "text": "Somanath sir said 7 launches lined up before March? ISRO scientists do you guys ever sleep? 😴❌ Respect the grind! #ISRO",
+    "author": "@BengaluruTechie"
+  },
+  {
+    "text": "Waiting for the NISAR satellite data! It’s going to map the entire Earth's surface every 12 days. Climate change monitoring is about to get precise. 🌍🛰️",
+    "author": "@ClimateWarriorInd"
+  },
+  {
+    "text": "Can we appreciate the private sector booming too? Skyroot and Agnikul are doing great work. ISRO opened the door and now everyone is walking through. 🚪🚀",
+    "author": "@StartupIndiaSpace"
+  },
+  {
+    "text": "China has Tiangong, ISS is retiring... India’s BAS is going to be the new hot real estate in orbit. 🏠🛰️ Diplomatic power move! 🇮🇳",
+    "author": "@Geopolitics_Space"
+  },
+  {
+    "text": "The abort test vehicle (TV-D2) was flawless. If anything goes wrong during launch, our astronauts will be safe. Safety first! 🛡️✅",
+    "author": "@SafetyFirstEng"
+  },
+  {
+    "text": "I used to want to be a doctor, now I want to be an astronaut. Thank you ISRO for dreaming big for us. 🌠👧",
+    "author": "@FutureScientistRiya"
+  },
+  {
+    "text": "Is anyone else tracking the PSLV launch trajectory live? The precision is insane. It's like throwing a dart across a continent and hitting a bullseye. 🎯🚀",
+    "author": "@OrbitalMechanicsFan"
+  },
+  {
+    "text": "The budget ISRO operates on is peanuts compared to NASA, yet the results are world-class. Frugal engineering at its finest. 'Jugaad' turned into high-tech excellence. 🥜➡️💎",
+    "author": "@EconWatchIndia"
+  },
+  {
+    "text": "Vyommitra can speak two languages and recognize astronauts. I can barely remember my password. 💀🤖",
+    "author": "@MemeBoi_2026"
+  },
+  {
+    "text": "Watching the docking simulation video again. The tech to align two satellites moving at 7km/s is mind-boggling. 🤯 Hats off to the guidance control team.",
+    "author": "@PhysicsLover_05"
+  },
+  {
+    "text": "Gaganyaan isn't just about space, it's about materials, computing, biology... the spinoff tech from this will help India for decades. 🧬💻",
+    "author": "@TechTrends2026"
+  },
+  {
+    "text": "Does the G1 mission have a live stream? I need to block my calendar. Prioritizing this over my job. 😂🖥️",
+    "author": "@SpaceCuriousGreg"
+  },
+  {
+    "text": "From carrying rocket parts on cycles to building a space station. What a journey. Jai Hind! 🇮🇳🚲➡️🚀",
+    "author": "@Patriot_Ind_99"
+  }
+]

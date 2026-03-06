@@ -1,0 +1,82 @@
+[
+  {
+    "text": "President Trump just secured Venezuela! 🇻🇪🇺🇸 The dictator is gone and the oil is flowing. Gas prices are about to crash. This is what strength looks like! #MAGA #Trump2026",
+    "author": "@PatriotEagleUSA"
+  },
+  {
+    "text": "I can't believe we just invaded a sovereign nation and captured their leader. This is imperialism 101. 🇻🇪🚫 The world is watching and they are terrified. #HandsOffVenezuela",
+    "author": "@ProgressiveVoiceNY"
+  },
+  {
+    "text": "The DOJ investigating Jerome Powell? 🏦⚖️ Finally! The Fed has been unaccountable for too long. Audit the Fed, end the inflation! 📉💵",
+    "author": "@LibertarianLarry"
+  },
+  {
+    "text": "War with Iran next? 🇮🇷💣 Trump is tweeting about 'strong options'. I didn't vote for WW3. Can we please focus on healthcare instead? 🏥☮️",
+    "author": "@ConcernedMom_OH"
+  },
+  {
+    "text": "Gas under $2.00 coming soon thanks to the Venezuela deal. Drill baby drill + Maduro gone = Winning. ⛽️🦅 Cry more liberals.",
+    "author": "@TexasOilMan88"
+  },
+  {
+    "text": "Capping credit card interest rates at 10%? 💳 Wait... I actually agree with Trump on this? Did hell freeze over? 🥶🤔",
+    "author": "@SocialistMillennial"
+  },
+  {
+    "text": "Trump's approval rating is holding steady at 40%. The base loves the aggression. The Venezuela move was a masterstroke for the midterms. 🗳️📊",
+    "author": "@DCPoliticInsider"
+  },
+  {
+    "text": "The 'Energy Emergency' order is destroying our national parks. 🌲🔥 Drilling everywhere. Future generations will hate us for this. 😢🌍",
+    "author": "@GreenPlanetJane"
+  },
+  {
+    "text": "Hundreds of more ICE agents in Minneapolis? 👮‍♂️ It feels like a police state here. People are scared to leave their homes. This isn't freedom. 🚫🇺🇸",
+    "author": "@MplsActivist"
+  },
+  {
+    "text": "So we own Greenland now? Or are we just buying it? I can't keep up with the map changes. 🗺️🇩🇰 Trump really wants that legacy. 😂",
+    "author": "@GeographyNerd_US"
+  },
+  {
+    "text": "The markets are jittery. Attacking the Federal Reserve Chairman is dangerous. 📉 If the dollar crashes, it's all on Trump. #Economy",
+    "author": "@WallStreetWatcher"
+  },
+  {
+    "text": "Trump telling Cuba to 'make a deal' or else... 🇨🇺 The Monroe Doctrine is back in full force. No more foreign influence in our hemisphere! 💪🌎",
+    "author": "@AmericaFirst_1776"
+  },
+  {
+    "text": "Whatever you say about him, Trump 2.0 gets things done. 🤷‍♂️ He said he'd fix the border and lower prices. He's doing it. Results matter.",
+    "author": "@IndependentVoterFL"
+  },
+  {
+    "text": "The polarization is unbearable. Families aren't talking to each other. We are two different countries living in one border. 💔🇺🇸",
+    "author": "@UnitySeeker2026"
+  },
+  {
+    "text": "Executive orders every single day. Is Congress even working? This is rule by decree. 📜👑 Democracy is hanging by a thread.",
+    "author": "@ConstLawProf"
+  },
+  {
+    "text": "Housing affordability plan sounds good on paper but banning private equity? 🏠 Interesting populist pivot. Let's see if he actually signs it. 🖊️👀",
+    "author": "@RealEstateGuy_CA"
+  },
+  {
+    "text": "Europe is freaking out about the tariffs but the UK is playing nice. Starmer caved fast! 🇬🇧🤝🇺🇸 Special relationship is just 'yes sir' now.",
+    "author": "@LondonPoliticLover"
+  },
+  {
+    "text": "They said Trump would start wars. He just ended the Venezuelan regime in a weekend with barely a shot fired. Peace through strength! 🕊️👊",
+    "author": "@MAGA_Vet_TX"
+  },
+  {
+    "text": "My grocery bill is still high though... when does the 'affordability' part kick in? 🍎💸 Waiting...",
+    "author": "@BudgetMom_NC"
+  },
+  {
+    "text": "Iran warns of 'consequences'. ⚠️ This staring contest is getting scary. One wrong move and the Middle East explodes. 🌍🔥",
+    "author": "@GlobalRiskAnalyst"
+  }
+]
