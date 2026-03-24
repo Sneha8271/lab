@@ -1,0 +1,156 @@
+/*  BASIC PAGE STYLE  */
+/* Gives the page a simple dotted border, nice spacing, and an easy-to-read font */
+body {
+  border: 3px dotted #000;
+  padding: 15px;
+  margin: 18px;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  background-color: #f7f7f7;
+  color: #222;
+}
+
+
+/*  MAIN PAGE TITLE  */
+/* Centers the main heading and makes it bold and clear */
+.title {
+  text-align: center;
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+
+/*  SECTION HEADINGS  */
+/* Used for headings like “Academic Details” or “Technical Skills” */
+.section-title {
+  text-align: center;
+  font-size: 20px;
+  color: #222;
+  margin: 8px 0;
+  background-color: #eaf6ff;   /* soft blue background for a clean look */
+  padding: 6px 0;
+  border-radius: 5px;          /* small curve around corners */
+}
+
+
+/*  DIVIDERS  */
+/* Simple thin line between sections to keep things organized */
+hr {
+  border: 0;
+  height: 1px;
+  background: #ccc;
+  margin: 12px 0;
+}
+
+
+/*  TABLES  */
+/* Neat white tables with light borders */
+table {
+  width: 100%;
+  border-collapse: collapse;   /* removes double borders */
+  background-color: #fff;
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+}
+
+/* Makes table headings and data cells look neat and readable */
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px 10px;
+  vertical-align: top;
+  font-size: 14px;
+  text-align: left;
+}
+
+/* Gives table headers a grey background and capital letters */
+th {
+  background-color: #f0f0f0;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+
+/* Adds light shading to every even row so it's easier to read across */
+tr:nth-child(even) {
+  background-color: #fafafa;
+}
+
+
+/*  PROFILE IMAGE  */
+/* Keeps your photo centered, adds a light border and a soft shadow */
+td img {
+  display: block;
+  border-radius: 8px;
+  border: 2px solid #eee;
+  margin: 0 auto;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+  object-fit: cover; /* keeps the image shape nice */
+}
+
+
+/*  PERSONAL DETAILS LABELS  */
+/* Highlights words like “Name” or “Email” with a soft background */
+td b {
+  background-color: #eaf6ff;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+
+/*  LISTS  */
+/* Adds small spacing around bullet points and numbered lists */
+ul, ol {
+  margin: 10px 0 14px 20px;
+}
+ul li, ol li {
+  margin: 5px 0;
+}
+
+
+/*  LINKS  */
+/* Basic link styling: blue color and underline when hovered */
+a {
+  color: #0a58ca;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* SOCIAL LINKS  */
+/* Centers the social media links and gives them a simple button look */
+.social-links {
+  text-align: center;
+  margin-top: 8px;
+}
+.social-links a {
+  display: inline-block;
+  padding: 5px 10px;
+  margin: 3px;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  background-color: #fff;
+  font-weight: 600;
+  color: #0a58ca;
+}
+
+
+/*  MOBILE FRIENDLY SETTINGS
+/* Makes the page adjust smoothly on small screens like phones */
+@media (max-width: 700px) {
+  body {
+    font-size: 14px;
+    padding: 10px;
+    margin: 10px;
+  }
+  th, td {
+    font-size: 13px;
+    padding: 6px 8px;
+  }
+  .title {
+    font-size: 22px;  /* makes the title slightly smaller on phones */
+  }
+}
